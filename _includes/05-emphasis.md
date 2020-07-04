@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Some examples of Bold, Italics, etc
+
+**This is an example for bold in markdown__
+
+_This is an example for Italics in markdown_
+
+:tada:
